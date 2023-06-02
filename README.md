@@ -13,3 +13,8 @@
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/4.2/howto/static-files/
+# Default primary key field type
+# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
+
